@@ -1,2 +1,3 @@
 # hello-world
 Some description here...
+Just some text about myself.
